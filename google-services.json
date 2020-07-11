@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "628122876840",
+    "firebase_url": "https://engineerquiz1.firebaseio.com",
+    "project_id": "engineerquiz1",
+    "storage_bucket": "engineerquiz1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628122876840:android:0d484811f800cc34c8fb9d",
+        "android_client_info": {
+          "package_name": "com.example.engineerquiz1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628122876840-j5u3nl5k6cg4dtfo3747h8tuf457q18b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.engineerquiz1",
+            "certificate_hash": "6f7ab05a7a3d270d4169bc8b72fe93ca0cc7fd1d"
+          }
+        },
+        {
+          "client_id": "628122876840-2m6ebsci99l2e7063tda3ag14s8a8o8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-UqLVT7pKRsXpcgWkz1qfLEuyG_SegXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628122876840-2m6ebsci99l2e7063tda3ag14s8a8o8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
